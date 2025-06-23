@@ -1,0 +1,1088 @@
+Country,Year,Gold,Silver,Bronze,Total,Country Name,Continent
+MAR,1960,0,1,0,1,Morocco,Africa
+MAR,1984,2,0,0,2,Morocco,Africa
+MAR,1988,1,0,2,3,Morocco,Africa
+MAR,1992,1,1,1,3,Morocco,Africa
+MAR,1996,0,0,2,2,Morocco,Africa
+MAR,2000,0,1,4,5,Morocco,Africa
+MAR,2004,2,1,0,3,Morocco,Africa
+MAR,2008,0,1,1,2,Morocco,Africa
+MAR,2012,0,0,1,1,Morocco,Africa
+AFG,2008,0,0,1,1,Afghanistan,Asia
+AFG,2012,0,0,1,1,Afghanistan,Asia
+ALG,1984,0,0,2,2,Algeria,Africa
+ALG,1992,1,0,1,2,Algeria,Africa
+ALG,1996,2,0,1,3,Algeria,Africa
+ALG,2000,1,1,3,5,Algeria,Africa
+ALG,2008,0,1,1,2,Algeria,Africa
+ALG,2012,1,0,0,1,Algeria,Africa
+ARG,1924,6,3,2,11,Argentina,Americas
+ARG,1928,3,24,5,32,Argentina,Americas
+ARG,1932,3,1,0,4,Argentina,Americas
+ARG,1936,5,2,4,11,Argentina,Americas
+ARG,1948,3,8,1,12,Argentina,Americas
+ARG,1952,2,2,2,6,Argentina,Americas
+ARG,1956,0,1,1,2,Argentina,Americas
+ARG,1960,0,3,1,4,Argentina,Americas
+ARG,1964,0,1,0,1,Argentina,Americas
+ARG,1968,0,0,2,2,Argentina,Americas
+ARG,1972,0,1,0,1,Argentina,Americas
+ARG,1988,0,1,12,13,Argentina,Americas
+ARG,1992,0,0,2,2,Argentina,Americas
+ARG,1996,0,19,1,20,Argentina,Americas
+ARG,2000,0,17,3,20,Argentina,Americas
+ARG,2004,26,0,21,47,Argentina,Americas
+ARG,2008,20,0,31,51,Argentina,Americas
+ARG,2012,1,16,3,20,Argentina,Americas
+ARM,1996,1,1,0,2,Armenia,Asia
+ARM,2000,0,0,1,1,Armenia,Asia
+ARM,2008,0,0,6,6,Armenia,Asia
+ARM,2012,0,1,1,2,Armenia,Asia
+AUS,1896,2,0,0,2,Australia,Oceania
+AUS,1900,2,0,3,5,Australia,Oceania
+AUS,1920,0,5,1,6,Australia,Oceania
+AUS,1924,3,5,2,10,Australia,Oceania
+AUS,1928,1,2,1,4,Australia,Oceania
+AUS,1932,3,1,1,5,Australia,Oceania
+AUS,1936,0,0,1,1,Australia,Oceania
+AUS,1948,2,9,5,16,Australia,Oceania
+AUS,1952,7,2,11,20,Australia,Oceania
+AUS,1956,23,12,26,61,Australia,Oceania
+AUS,1960,10,17,9,36,Australia,Oceania
+AUS,1964,8,5,29,42,Australia,Oceania
+AUS,1968,5,34,10,49,Australia,Oceania
+AUS,1972,11,7,2,20,Australia,Oceania
+AUS,1976,0,16,8,24,Australia,Oceania
+AUS,1980,5,2,5,12,Australia,Oceania
+AUS,1984,7,14,29,50,Australia,Oceania
+AUS,1988,18,6,10,34,Australia,Oceania
+AUS,1992,14,27,16,57,Australia,Oceania
+AUS,1996,32,16,84,132,Australia,Oceania
+AUS,2000,60,69,54,183,Australia,Oceania
+AUS,2004,49,78,30,157,Australia,Oceania
+AUS,2008,31,42,76,149,Australia,Oceania
+AUS,2012,19,36,59,114,Australia,Oceania
+AUT,1896,2,1,2,5,Austria,Europe
+AUT,1900,0,3,3,6,Austria,Europe
+AUT,1904,0,0,1,1,Austria,Europe
+AUT,1908,0,0,1,1,Austria,Europe
+AUT,1912,0,9,5,14,Austria,Europe
+AUT,1924,0,3,1,4,Austria,Europe
+AUT,1928,2,0,2,4,Austria,Europe
+AUT,1932,1,1,3,5,Austria,Europe
+AUT,1936,5,41,4,50,Austria,Europe
+AUT,1948,1,0,3,4,Austria,Europe
+AUT,1952,0,1,2,3,Austria,Europe
+AUT,1956,0,0,4,4,Austria,Europe
+AUT,1960,1,2,0,3,Austria,Europe
+AUT,1968,0,2,3,5,Austria,Europe
+AUT,1972,0,1,2,3,Austria,Europe
+AUT,1976,0,0,1,1,Austria,Europe
+AUT,1980,1,3,1,5,Austria,Europe
+AUT,1984,1,1,1,3,Austria,Europe
+AUT,1988,1,0,0,1,Austria,Europe
+AUT,1992,0,6,0,6,Austria,Europe
+AUT,1996,0,1,2,3,Austria,Europe
+AUT,2000,3,1,0,4,Austria,Europe
+AUT,2004,3,4,1,8,Austria,Europe
+AUT,2008,0,1,2,3,Austria,Europe
+AZE,1996,0,1,0,1,Azerbaijan,Asia
+AZE,2000,2,0,1,3,Azerbaijan,Asia
+AZE,2004,1,0,4,5,Azerbaijan,Asia
+AZE,2008,1,2,4,7,Azerbaijan,Asia
+AZE,2012,2,2,6,10,Azerbaijan,Asia
+BAH,1956,0,0,2,2,Bahamas,Americas
+BAH,1964,2,0,0,2,Bahamas,Americas
+BAH,1992,0,0,1,1,Bahamas,Americas
+BAH,1996,0,5,0,5,Bahamas,Americas
+BAH,2000,6,0,0,6,Bahamas,Americas
+BAH,2004,1,0,1,2,Bahamas,Americas
+BAH,2008,0,4,1,5,Bahamas,Americas
+BAH,2012,4,0,0,4,Bahamas,Americas
+BAR,2000,0,0,1,1,Barbados,Americas
+BEL,1900,5,19,15,39,Belgium,Europe
+BEL,1908,1,24,6,31,Belgium,Europe
+BEL,1912,9,1,9,19,Belgium,Europe
+BEL,1920,57,66,65,188,Belgium,Europe
+BEL,1924,3,29,6,38,Belgium,Europe
+BEL,1928,0,1,4,5,Belgium,Europe
+BEL,1936,0,0,12,12,Belgium,Europe
+BEL,1948,4,2,8,14,Belgium,Europe
+BEL,1952,4,3,0,7,Belgium,Europe
+BEL,1956,0,2,0,2,Belgium,Europe
+BEL,1960,0,2,2,4,Belgium,Europe
+BEL,1964,2,0,1,3,Belgium,Europe
+BEL,1968,0,1,2,3,Belgium,Europe
+BEL,1972,0,2,0,2,Belgium,Europe
+BEL,1976,0,3,6,9,Belgium,Europe
+BEL,1980,1,0,0,1,Belgium,Europe
+BEL,1984,1,2,2,5,Belgium,Europe
+BEL,1988,0,0,2,2,Belgium,Europe
+BEL,1992,0,1,2,3,Belgium,Europe
+BEL,1996,2,2,2,6,Belgium,Europe
+BEL,2000,0,3,4,7,Belgium,Europe
+BEL,2004,1,0,2,3,Belgium,Europe
+BEL,2008,1,4,0,5,Belgium,Europe
+BEL,2012,0,1,2,3,Belgium,Europe
+BER,1976,0,0,1,1,Bermuda,
+BLR,1996,1,6,16,23,Belarus,Europe
+BLR,2000,3,8,11,22,Belarus,Europe
+BLR,2004,2,6,9,17,Belarus,Europe
+BLR,2008,8,5,17,30,Belarus,Europe
+BLR,2012,3,12,6,21,Belarus,Europe
+BOT,2012,0,1,0,1,Botswana,Africa
+BRA,1920,1,1,5,7,Brazil,Americas
+BRA,1948,0,0,12,12,Brazil,Americas
+BRA,1952,1,0,2,3,Brazil,Americas
+BRA,1956,1,0,0,1,Brazil,Americas
+BRA,1960,0,0,13,13,Brazil,Americas
+BRA,1964,0,0,12,12,Brazil,Americas
+BRA,1968,0,1,3,4,Brazil,Americas
+BRA,1972,0,0,2,2,Brazil,Americas
+BRA,1976,0,0,3,3,Brazil,Americas
+BRA,1980,4,0,5,9,Brazil,Americas
+BRA,1984,1,34,2,37,Brazil,Americas
+BRA,1988,1,22,5,28,Brazil,Americas
+BRA,1992,13,1,0,14,Brazil,Americas
+BRA,1996,5,15,44,64,Brazil,Americas
+BRA,2000,0,12,36,48,Brazil,Americas
+BRA,2004,18,19,3,40,Brazil,Americas
+BRA,2008,14,34,27,75,Brazil,Americas
+BRA,2012,14,34,11,59,Brazil,Americas
+BUL,1952,0,0,1,1,Bulgaria,Europe
+BUL,1956,1,3,14,18,Bulgaria,Europe
+BUL,1960,1,3,3,7,Bulgaria,Europe
+BUL,1964,3,5,2,10,Bulgaria,Europe
+BUL,1968,2,21,3,26,Bulgaria,Europe
+BUL,1972,6,10,6,22,Bulgaria,Europe
+BUL,1976,8,13,18,39,Bulgaria,Europe
+BUL,1980,8,46,40,94,Bulgaria,Europe
+BUL,1988,10,14,17,41,Bulgaria,Europe
+BUL,1992,3,7,7,17,Bulgaria,Europe
+BUL,1996,3,12,6,21,Bulgaria,Europe
+BUL,2000,5,6,2,13,Bulgaria,Europe
+BUL,2004,2,1,14,17,Bulgaria,Europe
+BUL,2008,1,1,3,5,Bulgaria,Europe
+BUL,2012,0,1,1,2,Bulgaria,Europe
+CAN,1900,1,0,1,2,Canada,Americas
+CAN,1904,26,9,0,35,Canada,Americas
+CAN,1908,17,8,26,51,Canada,Americas
+CAN,1912,3,2,3,8,Canada,Americas
+CAN,1920,10,3,3,16,Canada,Americas
+CAN,1924,0,19,1,20,Canada,Americas
+CAN,1928,7,5,21,33,Canada,Americas
+CAN,1932,2,13,23,38,Canada,Americas
+CAN,1936,1,12,9,22,Canada,Americas
+CAN,1948,0,1,5,6,Canada,Americas
+CAN,1952,1,3,0,4,Canada,Americas
+CAN,1956,5,9,5,19,Canada,Americas
+CAN,1960,0,9,0,9,Canada,Americas
+CAN,1964,2,2,1,5,Canada,Americas
+CAN,1968,3,3,4,10,Canada,Americas
+CAN,1972,0,2,8,10,Canada,Americas
+CAN,1976,0,8,12,20,Canada,Americas
+CAN,1984,19,35,32,86,Canada,Americas
+CAN,1988,4,5,12,21,Canada,Americas
+CAN,1992,27,5,12,44,Canada,Americas
+CAN,1996,8,31,12,51,Canada,Americas
+CAN,2000,4,4,23,31,Canada,Americas
+CAN,2004,3,10,4,17,Canada,Americas
+CAN,2008,11,13,10,34,Canada,Americas
+CAN,2012,1,21,35,57,Canada,Americas
+CHI,1928,0,1,0,1,Chile,Americas
+CHI,1952,0,4,0,4,Chile,Americas
+CHI,1956,0,2,2,4,Chile,Americas
+CHI,1988,0,1,0,1,Chile,Americas
+CHI,2000,0,0,18,18,Chile,Americas
+CHI,2004,3,0,1,4,Chile,Americas
+CHI,2008,0,1,0,1,Chile,Americas
+CHN,1984,26,13,37,76,China,Asia
+CHN,1988,6,16,31,53,China,Asia
+CHN,1992,18,46,19,83,China,Asia
+CHN,1996,19,74,17,110,China,Asia
+CHN,2000,39,23,17,79,China,Asia
+CHN,2004,52,27,15,94,China,Asia
+CHN,2008,74,53,57,184,China,Asia
+CHN,2012,56,44,28,128,China,Asia
+CIV,1984,0,1,0,1,Ivory Coast,Africa
+CMR,1968,0,1,0,1,Cameroon,Africa
+CMR,1984,0,0,1,1,Cameroon,Africa
+CMR,2000,18,0,0,18,Cameroon,Africa
+CMR,2004,1,0,0,1,Cameroon,Africa
+CMR,2008,1,0,0,1,Cameroon,Africa
+CMR,2012,0,0,1,1,Cameroon,Africa
+COL,1972,0,1,2,3,Colombia,Americas
+COL,1984,0,1,0,1,Colombia,Americas
+COL,1988,0,0,1,1,Colombia,Americas
+COL,1992,0,0,1,1,Colombia,Americas
+COL,2000,1,0,0,1,Colombia,Americas
+COL,2004,0,0,2,2,Colombia,Americas
+COL,2008,0,1,1,2,Colombia,Americas
+COL,2012,1,3,4,8,Colombia,Americas
+CRC,1988,0,1,0,1,Costa Rica,Americas
+CRC,1996,1,0,0,1,Costa Rica,Americas
+CRC,2000,0,0,2,2,Costa Rica,Americas
+CRO,1992,0,12,3,15,Croatia,Europe
+CRO,1996,16,13,0,29,Croatia,Europe
+CRO,2000,1,0,9,10,Croatia,Europe
+CRO,2004,14,3,3,20,Croatia,Europe
+CRO,2008,0,2,3,5,Croatia,Europe
+CRO,2012,15,4,16,35,Croatia,Europe
+CUB,1900,1,1,0,2,Cuba,Americas
+CUB,1904,4,2,3,9,Cuba,Americas
+CUB,1948,0,2,0,2,Cuba,Americas
+CUB,1964,0,1,0,1,Cuba,Americas
+CUB,1968,0,10,0,10,Cuba,Americas
+CUB,1972,3,1,18,22,Cuba,Americas
+CUB,1976,6,4,14,24,Cuba,Americas
+CUB,1980,8,7,5,20,Cuba,Americas
+CUB,1992,44,13,14,71,Cuba,Americas
+CUB,1996,39,8,10,57,Cuba,Americas
+CUB,2000,22,35,12,69,Cuba,Americas
+CUB,2004,31,8,22,61,Cuba,Americas
+CUB,2008,2,34,11,47,Cuba,Americas
+CUB,2012,5,3,7,15,Cuba,Americas
+CYP,2012,0,1,0,1,Cyprus,Europe
+CZE,1996,4,5,4,13,Czech Republic,Europe
+CZE,2000,2,3,4,9,Czech Republic,Europe
+CZE,2004,1,6,5,12,Czech Republic,Europe
+CZE,2008,3,4,0,7,Czech Republic,Europe
+CZE,2012,4,4,7,15,Czech Republic,Europe
+DEN,1896,1,2,3,6,Denmark,Europe
+DEN,1900,1,3,2,6,Denmark,Europe
+DEN,1908,0,12,3,15,Denmark,Europe
+DEN,1912,5,45,34,84,Denmark,Europe
+DEN,1920,30,44,1,75,Denmark,Europe
+DEN,1924,2,8,2,12,Denmark,Europe
+DEN,1928,5,5,3,13,Denmark,Europe
+DEN,1932,0,5,4,9,Denmark,Europe
+DEN,1936,0,3,3,6,Denmark,Europe
+DEN,1948,7,15,27,49,Denmark,Europe
+DEN,1952,3,1,5,9,Denmark,Europe
+DEN,1956,1,5,1,7,Denmark,Europe
+DEN,1960,2,17,4,23,Denmark,Europe
+DEN,1964,7,1,4,12,Denmark,Europe
+DEN,1968,4,6,6,16,Denmark,Europe
+DEN,1972,1,0,0,1,Denmark,Europe
+DEN,1976,3,0,5,8,Denmark,Europe
+DEN,1980,4,2,2,8,Denmark,Europe
+DEN,1984,0,5,10,15,Denmark,Europe
+DEN,1988,3,1,3,7,Denmark,Europe
+DEN,1992,3,2,9,14,Denmark,Europe
+DEN,1996,22,1,1,24,Denmark,Europe
+DEN,2000,18,3,4,25,Denmark,Europe
+DEN,2004,19,0,10,29,Denmark,Europe
+DEN,2008,6,6,6,18,Denmark,Europe
+DEN,2012,3,5,8,16,Denmark,Europe
+DJI,1988,0,0,1,1,Djibouti,
+DOM,1984,0,0,1,1,Dominican Republic,Americas
+DOM,2004,1,0,0,1,Dominican Republic,Americas
+DOM,2008,1,1,0,2,Dominican Republic,Americas
+DOM,2012,1,1,0,2,Dominican Republic,Americas
+ECU,1996,1,0,0,1,Ecuador,Americas
+ECU,2008,0,1,0,1,Ecuador,Americas
+EGY,1928,2,1,1,4,Egypt,Africa
+EGY,1936,2,1,2,5,Egypt,Africa
+EGY,1948,2,2,1,5,Egypt,Africa
+EGY,1952,0,0,1,1,Egypt,Africa
+EGY,1960,0,1,1,2,Egypt,Africa
+EGY,1984,0,1,0,1,Egypt,Africa
+EGY,2004,1,1,3,5,Egypt,Africa
+EGY,2008,0,0,1,1,Egypt,Africa
+EGY,2012,0,3,1,4,Egypt,Africa
+ERI,2004,0,0,1,1,Eritrea,
+ESP,1900,2,0,0,2,Spain,Europe
+ESP,1920,0,24,0,24,Spain,Europe
+ESP,1928,3,0,0,3,Spain,Europe
+ESP,1932,0,0,1,1,Spain,Europe
+ESP,1948,0,3,0,3,Spain,Europe
+ESP,1952,0,1,0,1,Spain,Europe
+ESP,1960,0,0,14,14,Spain,Europe
+ESP,1972,0,0,1,1,Spain,Europe
+ESP,1976,0,6,0,6,Spain,Europe
+ESP,1980,2,19,3,24,Spain,Europe
+ESP,1984,2,14,3,19,Spain,Europe
+ESP,1988,1,2,2,5,Spain,Europe
+ESP,1992,44,20,2,66,Spain,Europe
+ESP,1996,24,21,22,67,Spain,Europe
+ESP,2000,3,20,20,43,Spain,Europe
+ESP,2004,4,15,8,27,Spain,Europe
+ESP,2008,7,48,16,71,Spain,Europe
+ESP,2012,6,34,25,65,Spain,Europe
+EST,1920,1,2,0,3,Estonia,Europe
+EST,1924,1,1,4,6,Estonia,Europe
+EST,1928,2,1,6,9,Estonia,Europe
+EST,1936,2,2,3,7,Estonia,Europe
+EST,1992,1,0,2,3,Estonia,Europe
+EST,2000,1,0,2,3,Estonia,Europe
+EST,2004,0,1,2,3,Estonia,Europe
+EST,2008,1,2,0,3,Estonia,Europe
+EST,2012,0,1,1,2,Estonia,Europe
+ETH,1960,1,0,0,1,Ethiopia,Africa
+ETH,1964,1,0,0,1,Ethiopia,Africa
+ETH,1968,1,1,0,2,Ethiopia,Africa
+ETH,1972,0,0,2,2,Ethiopia,Africa
+ETH,1980,2,0,2,4,Ethiopia,Africa
+ETH,1992,1,0,2,3,Ethiopia,Africa
+ETH,1996,2,0,1,3,Ethiopia,Africa
+ETH,2000,4,1,3,8,Ethiopia,Africa
+ETH,2004,2,3,2,7,Ethiopia,Africa
+ETH,2008,4,1,2,7,Ethiopia,Africa
+ETH,2012,3,2,2,7,Ethiopia,Africa
+FIN,1908,1,1,27,29,Finland,Europe
+FIN,1912,9,36,22,67,Finland,Europe
+FIN,1920,18,14,17,49,Finland,Europe
+FIN,1924,24,13,15,52,Finland,Europe
+FIN,1928,8,8,9,25,Finland,Europe
+FIN,1932,5,8,16,29,Finland,Europe
+FIN,1936,7,6,13,26,Finland,Europe
+FIN,1948,15,7,7,29,Finland,Europe
+FIN,1952,8,3,29,40,Finland,Europe
+FIN,1956,3,1,22,26,Finland,Europe
+FIN,1960,1,1,4,6,Finland,Europe
+FIN,1964,3,0,2,5,Finland,Europe
+FIN,1968,1,2,1,4,Finland,Europe
+FIN,1972,3,1,6,10,Finland,Europe
+FIN,1976,4,2,0,6,Finland,Europe
+FIN,1980,3,1,5,9,Finland,Europe
+FIN,1984,4,2,6,12,Finland,Europe
+FIN,1988,1,1,2,4,Finland,Europe
+FIN,1992,1,4,2,7,Finland,Europe
+FIN,1996,1,2,1,4,Finland,Europe
+FIN,2000,3,1,1,5,Finland,Europe
+FIN,2004,0,2,0,2,Finland,Europe
+FIN,2008,1,2,2,5,Finland,Europe
+FIN,2012,0,2,3,5,Finland,Europe
+FRA,1896,5,4,2,11,France,Europe
+FRA,1900,46,86,53,185,France,Europe
+FRA,1908,9,5,21,35,France,Europe
+FRA,1912,10,10,5,25,France,Europe
+FRA,1920,13,73,55,141,France,Europe
+FRA,1924,39,63,20,122,France,Europe
+FRA,1928,7,16,13,36,France,Europe
+FRA,1932,23,8,6,37,France,Europe
+FRA,1936,12,13,18,43,France,Europe
+FRA,1948,25,22,21,68,France,Europe
+FRA,1952,14,9,16,39,France,Europe
+FRA,1956,6,13,13,32,France,Europe
+FRA,1960,0,6,5,11,France,Europe
+FRA,1964,1,13,17,31,France,Europe
+FRA,1968,12,5,10,27,France,Europe
+FRA,1972,2,5,15,22,France,Europe
+FRA,1976,5,7,8,20,France,Europe
+FRA,1980,18,5,6,29,France,Europe
+FRA,1984,21,16,31,68,France,Europe
+FRA,1988,12,4,13,29,France,Europe
+FRA,1992,9,5,43,57,France,Europe
+FRA,1996,21,10,20,51,France,Europe
+FRA,2000,22,30,14,66,France,Europe
+FRA,2004,21,10,22,53,France,Europe
+FRA,2008,25,23,28,76,France,Europe
+FRA,2012,30,30,22,82,France,Europe
+GAB,2012,0,1,0,1,Gabon,Africa
+GBR,1896,2,3,2,7,United Kingdom,
+GBR,1900,48,20,10,78,United Kingdom,
+GBR,1904,1,1,0,2,United Kingdom,
+GBR,1908,144,135,68,347,United Kingdom,
+GBR,1912,44,58,58,160,United Kingdom,
+GBR,1920,55,35,17,107,United Kingdom,
+GBR,1924,17,29,20,66,United Kingdom,
+GBR,1928,6,25,24,55,United Kingdom,
+GBR,1932,8,12,14,34,United Kingdom,
+GBR,1936,12,16,8,36,United Kingdom,
+GBR,1948,6,39,11,56,United Kingdom,
+GBR,1952,3,2,26,31,United Kingdom,
+GBR,1956,8,15,22,45,United Kingdom,
+GBR,1960,2,11,15,28,United Kingdom,
+GBR,1964,4,19,5,28,United Kingdom,
+GBR,1968,8,5,5,18,United Kingdom,
+GBR,1972,8,9,12,29,United Kingdom,
+GBR,1976,6,15,11,32,United Kingdom,
+GBR,1980,5,18,22,45,United Kingdom,
+GBR,1984,9,20,43,72,United Kingdom,
+GBR,1988,22,16,15,53,United Kingdom,
+GBR,1992,8,3,39,50,United Kingdom,
+GBR,1996,2,15,9,26,United Kingdom,
+GBR,2000,22,20,13,55,United Kingdom,
+GBR,2004,17,25,15,57,United Kingdom,
+GBR,2008,31,25,21,77,United Kingdom,
+GBR,2012,48,30,48,126,United Kingdom,
+GEO,1996,0,0,2,2,Georgia,Asia
+GEO,2000,0,0,6,6,Georgia,Asia
+GEO,2004,2,2,0,4,Georgia,Asia
+GEO,2008,3,0,3,6,Georgia,Asia
+GEO,2012,1,3,3,7,Georgia,Asia
+GER,1896,26,5,2,33,Germany,Europe
+GER,1900,11,19,10,40,Germany,Europe
+GER,1904,4,4,5,13,Germany,Europe
+GER,1908,4,11,7,22,Germany,Europe
+GER,1912,10,19,23,52,Germany,Europe
+GER,1928,20,13,39,72,Germany,Europe
+GER,1932,7,26,5,38,Germany,Europe
+GER,1936,88,63,59,210,Germany,Europe
+GER,1952,0,14,26,40,Germany,Europe
+GER,1992,81,57,60,198,Germany,Europe
+GER,1996,42,35,47,124,Germany,Europe
+GER,2000,31,23,65,119,Germany,Europe
+GER,2004,41,45,63,149,Germany,Europe
+GER,2008,42,16,43,101,Germany,Europe
+GER,2012,45,28,21,94,Germany,Europe
+GHA,1960,0,1,0,1,Ghana,Africa
+GHA,1964,0,0,1,1,Ghana,Africa
+GHA,1972,0,0,1,1,Ghana,Africa
+GHA,1992,0,0,13,13,Ghana,Africa
+GRE,1896,10,20,22,52,Greece,Europe
+GRE,1904,1,0,1,2,Greece,Europe
+GRE,1908,0,3,0,3,Greece,Europe
+GRE,1912,1,0,1,2,Greece,Europe
+GRE,1920,0,5,0,5,Greece,Europe
+GRE,1956,0,0,1,1,Greece,Europe
+GRE,1960,3,0,0,3,Greece,Europe
+GRE,1968,0,0,1,1,Greece,Europe
+GRE,1972,0,2,0,2,Greece,Europe
+GRE,1980,1,0,4,5,Greece,Europe
+GRE,1984,0,1,1,2,Greece,Europe
+GRE,1988,0,0,1,1,Greece,Europe
+GRE,1992,2,0,0,2,Greece,Europe
+GRE,1996,4,4,0,8,Greece,Europe
+GRE,2000,4,6,8,18,Greece,Europe
+GRE,2004,8,18,5,31,Greece,Europe
+GRE,2008,0,3,4,7,Greece,Europe
+GRE,2012,0,0,3,3,Greece,Europe
+GRN,2012,1,0,0,1,Grenada,Americas
+GUA,2012,0,1,0,1,Guatemala,Americas
+GUY,1980,0,0,1,1,Guyana,Americas
+HAI,1924,0,0,7,7,Haiti,Americas
+HAI,1928,0,1,0,1,Haiti,Americas
+HKG,1996,1,0,0,1,Hong Kong,
+HKG,2004,0,2,0,2,Hong Kong,
+HKG,2012,0,0,1,1,Hong Kong,
+HUN,1896,2,1,3,6,Hungary,Europe
+HUN,1900,1,2,2,5,Hungary,Europe
+HUN,1904,2,1,1,4,Hungary,Europe
+HUN,1908,6,7,5,18,Hungary,Europe
+HUN,1912,10,17,3,30,Hungary,Europe
+HUN,1924,2,10,8,20,Hungary,Europe
+HUN,1928,9,11,0,20,Hungary,Europe
+HUN,1932,20,4,8,32,Hungary,Europe
+HUN,1936,25,1,16,42,Hungary,Europe
+HUN,1948,15,24,21,60,Hungary,Europe
+HUN,1952,52,17,32,101,Hungary,Europe
+HUN,1956,30,20,14,64,Hungary,Europe
+HUN,1960,13,16,36,65,Hungary,Europe
+HUN,1964,42,7,7,56,Hungary,Europe
+HUN,1968,32,20,29,81,Hungary,Europe
+HUN,1972,10,46,25,81,Hungary,Europe
+HUN,1976,14,6,35,55,Hungary,Europe
+HUN,1980,8,13,40,61,Hungary,Europe
+HUN,1988,20,9,15,44,Hungary,Europe
+HUN,1992,14,23,8,45,Hungary,Europe
+HUN,1996,8,9,26,43,Hungary,Europe
+HUN,2000,25,24,4,53,Hungary,Europe
+HUN,2004,24,12,4,40,Hungary,Europe
+HUN,2008,16,8,3,27,Hungary,Europe
+HUN,2012,12,8,6,26,Hungary,Europe
+INA,1988,0,3,0,3,Indonesia,Asia
+INA,1992,2,3,1,6,Indonesia,Asia
+INA,1996,2,1,3,6,Indonesia,Asia
+INA,2000,2,4,2,8,Indonesia,Asia
+INA,2004,1,1,3,5,Indonesia,Asia
+INA,2008,2,2,3,7,Indonesia,Asia
+INA,2012,0,2,1,3,Indonesia,Asia
+IND,1900,0,2,0,2,India,Asia
+IND,1928,15,0,0,15,India,Asia
+IND,1932,11,0,0,11,India,Asia
+IND,1936,19,0,0,19,India,Asia
+IND,1948,20,0,0,20,India,Asia
+IND,1952,14,0,1,15,India,Asia
+IND,1956,17,0,0,17,India,Asia
+IND,1960,0,13,0,13,India,Asia
+IND,1964,15,0,0,15,India,Asia
+IND,1968,0,0,15,15,India,Asia
+IND,1972,0,0,14,14,India,Asia
+IND,1980,16,0,0,16,India,Asia
+IND,1996,0,0,1,1,India,Asia
+IND,2000,0,0,1,1,India,Asia
+IND,2004,0,1,0,1,India,Asia
+IND,2008,1,0,2,3,India,Asia
+IND,2012,0,2,4,6,India,Asia
+IRI,1948,0,0,1,1,Iran,Asia
+IRI,1952,0,3,4,7,Iran,Asia
+IRI,1956,2,2,1,5,Iran,Asia
+IRI,1960,0,1,3,4,Iran,Asia
+IRI,1964,0,0,2,2,Iran,Asia
+IRI,1968,2,1,2,5,Iran,Asia
+IRI,1972,0,2,1,3,Iran,Asia
+IRI,1976,0,1,1,2,Iran,Asia
+IRI,1988,0,1,0,1,Iran,Asia
+IRI,1992,0,1,2,3,Iran,Asia
+IRI,1996,1,1,1,3,Iran,Asia
+IRI,2000,3,0,1,4,Iran,Asia
+IRI,2004,2,2,2,6,Iran,Asia
+IRI,2008,1,0,1,2,Iran,Asia
+IRI,2012,5,6,2,13,Iran,Asia
+IRL,1928,1,0,0,1,Ireland,Europe
+IRL,1932,2,0,0,2,Ireland,Europe
+IRL,1952,0,1,0,1,Ireland,Europe
+IRL,1956,1,1,3,5,Ireland,Europe
+IRL,1964,0,0,1,1,Ireland,Europe
+IRL,1980,0,2,1,3,Ireland,Europe
+IRL,1984,0,1,0,1,Ireland,Europe
+IRL,1992,1,1,0,2,Ireland,Europe
+IRL,1996,3,0,1,4,Ireland,Europe
+IRL,2000,0,1,0,1,Ireland,Europe
+IRL,2008,0,1,2,3,Ireland,Europe
+IRL,2012,1,1,4,6,Ireland,Europe
+IRQ,1960,0,0,1,1,Iraq,Asia
+ISL,1956,0,1,0,1,Iceland,Europe
+ISL,1984,0,0,1,1,Iceland,Europe
+ISL,2000,0,0,1,1,Iceland,Europe
+ISL,2008,0,14,0,14,Iceland,Europe
+ISR,1992,0,1,1,2,Israel,Asia
+ISR,1996,0,0,1,1,Israel,Asia
+ISR,2000,0,0,1,1,Israel,Asia
+ISR,2004,1,0,1,2,Israel,Asia
+ISR,2008,0,0,1,1,Israel,Asia
+ISV,1988,0,1,0,1,U.S. Virgin Islands,
+ITA,1900,2,2,0,4,Italy,Europe
+ITA,1908,2,5,0,7,Italy,Europe
+ITA,1912,18,1,2,21,Italy,Europe
+ITA,1920,68,9,7,84,Italy,Europe
+ITA,1924,25,5,21,51,Italy,Europe
+ITA,1928,18,21,31,70,Italy,Europe
+ITA,1932,21,38,18,77,Italy,Europe
+ITA,1936,36,30,5,71,Italy,Europe
+ITA,1948,20,31,12,63,Italy,Europe
+ITA,1952,17,21,15,53,Italy,Europe
+ITA,1956,25,11,10,46,Italy,Europe
+ITA,1960,36,18,34,88,Italy,Europe
+ITA,1964,13,28,9,50,Italy,Europe
+ITA,1968,5,8,19,32,Italy,Europe
+ITA,1972,9,3,13,25,Italy,Europe
+ITA,1976,2,25,4,31,Italy,Europe
+ITA,1980,8,21,8,37,Italy,Europe
+ITA,1984,29,6,28,63,Italy,Europe
+ITA,1988,11,10,8,29,Italy,Europe
+ITA,1992,22,10,14,46,Italy,Europe
+ITA,1996,19,24,28,71,Italy,Europe
+ITA,2000,22,14,29,65,Italy,Europe
+ITA,2004,24,39,39,102,Italy,Europe
+ITA,2008,8,14,20,42,Italy,Europe
+ITA,2012,16,22,30,68,Italy,Europe
+JAM,1948,1,2,0,3,Jamaica,Americas
+JAM,1952,5,3,0,8,Jamaica,Americas
+JAM,1968,0,1,0,1,Jamaica,Americas
+JAM,1972,0,0,1,1,Jamaica,Americas
+JAM,1976,1,1,0,2,Jamaica,Americas
+JAM,1980,0,0,3,3,Jamaica,Americas
+JAM,1984,0,4,2,6,Jamaica,Americas
+JAM,1988,0,5,0,5,Jamaica,Americas
+JAM,1992,0,3,1,4,Jamaica,Americas
+JAM,1996,1,3,12,16,Jamaica,Americas
+JAM,2000,0,14,9,23,Jamaica,Americas
+JAM,2004,6,1,6,13,Jamaica,Americas
+JAM,2008,9,3,5,17,Jamaica,Americas
+JAM,2012,8,9,8,25,Jamaica,Americas
+JPN,1920,0,3,0,3,Japan,Asia
+JPN,1924,0,0,1,1,Japan,Asia
+JPN,1928,2,5,1,8,Japan,Asia
+JPN,1932,10,17,4,31,Japan,Asia
+JPN,1936,9,4,8,21,Japan,Asia
+JPN,1952,1,9,2,12,Japan,Asia
+JPN,1956,4,15,5,24,Japan,Asia
+JPN,1960,9,10,10,29,Japan,Asia
+JPN,1964,32,5,27,64,Japan,Asia
+JPN,1968,16,29,22,67,Japan,Asia
+JPN,1972,29,19,8,56,Japan,Asia
+JPN,1976,25,6,10,41,Japan,Asia
+JPN,1984,10,8,31,49,Japan,Asia
+JPN,1988,4,3,13,20,Japan,Asia
+JPN,1992,3,8,36,47,Japan,Asia
+JPN,1996,3,26,14,43,Japan,Asia
+JPN,2000,5,30,8,43,Japan,Asia
+JPN,2004,21,20,53,94,Japan,Asia
+JPN,2008,23,11,17,51,Japan,Asia
+JPN,2012,7,44,33,84,Japan,Asia
+KAZ,1996,3,4,4,11,Kazakhstan,Asia
+KAZ,2000,3,4,0,7,Kazakhstan,Asia
+KAZ,2004,1,4,3,8,Kazakhstan,Asia
+KAZ,2008,2,4,7,13,Kazakhstan,Asia
+KAZ,2012,3,1,6,10,Kazakhstan,Asia
+KEN,1964,0,0,1,1,Kenya,Africa
+KEN,1968,3,7,2,12,Kenya,Africa
+KEN,1972,5,3,4,12,Kenya,Africa
+KEN,1984,1,0,2,3,Kenya,Africa
+KEN,1988,5,2,2,9,Kenya,Africa
+KEN,1992,2,4,2,8,Kenya,Africa
+KEN,1996,1,4,3,8,Kenya,Africa
+KEN,2000,2,3,2,7,Kenya,Africa
+KEN,2004,1,4,2,7,Kenya,Africa
+KEN,2008,6,4,4,14,Kenya,Africa
+KEN,2012,2,4,6,12,Kenya,Africa
+KGZ,2000,0,0,1,1,Kyrgyzstan,Asia
+KGZ,2008,0,1,1,2,Kyrgyzstan,Asia
+KOR,1948,0,0,2,2,South Korea,Asia
+KOR,1952,0,0,2,2,South Korea,Asia
+KOR,1956,0,1,1,2,South Korea,Asia
+KOR,1964,0,2,1,3,South Korea,Asia
+KOR,1968,0,1,1,2,South Korea,Asia
+KOR,1972,0,1,0,1,South Korea,Asia
+KOR,1976,1,1,15,17,South Korea,Asia
+KOR,1984,6,29,7,42,South Korea,Asia
+KOR,1988,28,37,12,77,South Korea,Asia
+KOR,1992,28,5,16,49,South Korea,Asia
+KOR,1996,10,49,7,66,South Korea,Asia
+KOR,2000,12,26,35,73,South Korea,Asia
+KOR,2004,14,28,10,52,South Korea,Asia
+KOR,2008,41,11,26,78,South Korea,Asia
+KOR,2012,18,13,32,63,South Korea,Asia
+KSA,2000,0,1,1,2,Saudi Arabia,Asia
+KSA,2012,0,0,4,4,Saudi Arabia,Asia
+KUW,2000,0,0,1,1,Kuwait,Asia
+KUW,2012,0,0,1,1,Kuwait,Asia
+LAT,1932,0,1,0,1,Latvia,Europe
+LAT,1936,0,1,1,2,Latvia,Europe
+LAT,1992,0,2,1,3,Latvia,Europe
+LAT,1996,0,1,0,1,Latvia,Europe
+LAT,2000,1,1,1,3,Latvia,Europe
+LAT,2004,0,4,0,4,Latvia,Europe
+LAT,2008,1,1,1,3,Latvia,Europe
+LAT,2012,1,0,2,3,Latvia,Europe
+LIB,1952,0,1,1,2,Liberia,
+LIB,1972,0,1,0,1,Liberia,
+LIB,1980,0,0,1,1,Liberia,
+LTU,1992,1,0,12,13,Lithuania,Europe
+LTU,1996,0,0,12,12,Lithuania,Europe
+LTU,2000,2,0,15,17,Lithuania,Europe
+LTU,2004,1,2,0,3,Lithuania,Europe
+LTU,2008,0,2,3,5,Lithuania,Europe
+LTU,2012,2,1,2,5,Lithuania,Europe
+LUX,1920,0,1,0,1,Luxembourg,Europe
+LUX,1952,1,0,0,1,Luxembourg,Europe
+MAS,1992,0,0,2,2,Malaysia,Asia
+MAS,1996,0,2,1,3,Malaysia,Asia
+MAS,2008,0,1,0,1,Malaysia,Asia
+MAS,2012,0,1,1,2,Malaysia,Asia
+MDA,1996,0,2,1,3,Moldova,Europe
+MDA,2000,0,1,1,2,Moldova,Europe
+MDA,2008,0,0,1,1,Moldova,Europe
+MEX,1932,0,2,0,2,Mexico,Americas
+MEX,1936,0,0,16,16,Mexico,Americas
+MEX,1948,4,1,4,9,Mexico,Americas
+MEX,1952,0,1,0,1,Mexico,Americas
+MEX,1956,1,0,1,2,Mexico,Americas
+MEX,1960,0,0,1,1,Mexico,Americas
+MEX,1964,0,0,1,1,Mexico,Americas
+MEX,1968,3,3,3,9,Mexico,Americas
+MEX,1972,0,1,0,1,Mexico,Americas
+MEX,1976,1,0,1,2,Mexico,Americas
+MEX,1980,0,1,11,12,Mexico,Americas
+MEX,1984,2,3,1,6,Mexico,Americas
+MEX,1988,0,0,2,2,Mexico,Americas
+MEX,1992,0,1,0,1,Mexico,Americas
+MEX,1996,0,0,1,1,Mexico,Americas
+MEX,2000,1,2,3,6,Mexico,Americas
+MEX,2004,0,3,1,4,Mexico,Americas
+MEX,2008,2,0,2,4,Mexico,Americas
+MEX,2012,18,5,3,26,Mexico,Americas
+MGL,1968,0,1,3,4,Mongolia,Asia
+MGL,1972,0,1,0,1,Mongolia,Asia
+MGL,1976,0,1,0,1,Mongolia,Asia
+MGL,1980,0,2,2,4,Mongolia,Asia
+MGL,1988,0,0,1,1,Mongolia,Asia
+MGL,1992,0,0,2,2,Mongolia,Asia
+MGL,1996,0,0,1,1,Mongolia,Asia
+MGL,2004,0,0,1,1,Mongolia,Asia
+MGL,2008,2,2,0,4,Mongolia,Asia
+MGL,2012,0,2,3,5,Mongolia,Asia
+MKD,2000,0,0,1,1,North Macedonia,Europe
+MNE,2012,0,14,0,14,Montenegro,Europe
+MOZ,1996,0,0,1,1,Mozambique,Africa
+MOZ,2000,1,0,0,1,Mozambique,Africa
+MRI,2008,0,0,1,1,Mauritius,Africa
+NAM,1992,0,2,0,2,Namibia,Africa
+NAM,1996,0,2,0,2,Namibia,Africa
+NED,1900,0,5,15,20,Netherlands,Europe
+NED,1908,0,0,11,11,Netherlands,Europe
+NED,1912,0,0,22,22,Netherlands,Europe
+NED,1920,14,10,24,48,Netherlands,Europe
+NED,1924,8,1,17,26,Netherlands,Europe
+NED,1928,20,39,6,65,Netherlands,Europe
+NED,1932,2,10,0,12,Netherlands,Europe
+NED,1936,9,7,21,37,Netherlands,Europe
+NED,1948,8,2,32,42,Netherlands,Europe
+NED,1952,0,18,0,18,Netherlands,Europe
+NED,1960,0,1,2,3,Netherlands,Europe
+NED,1964,5,9,16,30,Netherlands,Europe
+NED,1968,6,7,1,14,Netherlands,Europe
+NED,1972,3,1,2,6,Netherlands,Europe
+NED,1976,0,2,13,15,Netherlands,Europe
+NED,1980,0,1,5,6,Netherlands,Europe
+NED,1984,20,6,14,40,Netherlands,Europe
+NED,1988,3,5,36,44,Netherlands,Europe
+NED,1992,5,20,8,33,Netherlands,Europe
+NED,1996,38,9,26,73,Netherlands,Europe
+NED,2000,27,29,23,79,Netherlands,Europe
+NED,2004,4,50,22,76,Netherlands,Europe
+NED,2008,40,18,4,62,Netherlands,Europe
+NED,2012,21,29,19,69,Netherlands,Europe
+NGR,1964,0,0,1,1,Nigeria,Africa
+NGR,1972,0,0,1,1,Nigeria,Africa
+NGR,1984,0,1,4,5,Nigeria,Africa
+NGR,1992,0,7,4,11,Nigeria,Africa
+NGR,1996,19,4,3,26,Nigeria,Africa
+NGR,2000,0,8,0,8,Nigeria,Africa
+NGR,2004,0,0,8,8,Nigeria,Africa
+NGR,2008,0,18,6,24,Nigeria,Africa
+NIG,1972,0,0,1,1,Nigeria,Africa
+NOR,1900,0,6,3,9,Norway,Europe
+NOR,1908,7,34,3,44,Norway,Europe
+NOR,1912,41,6,29,76,Norway,Europe
+NOR,1920,58,56,27,141,Norway,Europe
+NOR,1924,16,7,3,26,Norway,Europe
+NOR,1928,4,4,1,9,Norway,Europe
+NOR,1936,1,12,15,28,Norway,Europe
+NOR,1948,3,4,11,18,Norway,Europe
+NOR,1952,5,8,0,13,Norway,Europe
+NOR,1956,1,0,2,3,Norway,Europe
+NOR,1960,2,0,0,2,Norway,Europe
+NOR,1968,4,2,0,6,Norway,Europe
+NOR,1972,2,2,4,8,Norway,Europe
+NOR,1976,2,4,0,6,Norway,Europe
+NOR,1984,0,1,3,4,Norway,Europe
+NOR,1988,2,21,0,23,Norway,Europe
+NOR,1992,2,20,1,23,Norway,Europe
+NOR,1996,2,3,20,25,Norway,Europe
+NOR,2000,21,4,19,44,Norway,Europe
+NOR,2004,5,0,2,7,Norway,Europe
+NOR,2008,16,5,1,22,Norway,Europe
+NOR,2012,15,1,1,17,Norway,Europe
+NZL,1920,0,0,1,1,New Zealand,Oceania
+NZL,1924,0,0,1,1,New Zealand,Oceania
+NZL,1928,1,0,0,1,New Zealand,Oceania
+NZL,1932,0,2,0,2,New Zealand,Oceania
+NZL,1936,1,0,0,1,New Zealand,Oceania
+NZL,1952,1,0,2,3,New Zealand,Oceania
+NZL,1956,3,0,0,3,New Zealand,Oceania
+NZL,1960,2,0,1,3,New Zealand,Oceania
+NZL,1964,4,0,2,6,New Zealand,Oceania
+NZL,1968,5,0,2,7,New Zealand,Oceania
+NZL,1972,9,4,1,14,New Zealand,Oceania
+NZL,1976,17,1,9,27,New Zealand,Oceania
+NZL,1984,16,1,6,23,New Zealand,Oceania
+NZL,1988,4,4,16,24,New Zealand,Oceania
+NZL,1992,1,9,5,15,New Zealand,Oceania
+NZL,1996,3,2,4,9,New Zealand,Oceania
+NZL,2000,1,0,3,4,New Zealand,Oceania
+NZL,2004,4,2,0,6,New Zealand,Oceania
+NZL,2008,4,2,8,14,New Zealand,Oceania
+NZL,2012,9,3,14,26,New Zealand,Oceania
+PAK,1956,0,14,0,14,Pakistan,Asia
+PAK,1960,13,0,1,14,Pakistan,Asia
+PAK,1964,0,16,0,16,Pakistan,Asia
+PAK,1968,13,0,0,13,Pakistan,Asia
+PAK,1972,0,15,0,15,Pakistan,Asia
+PAK,1976,0,0,16,16,Pakistan,Asia
+PAK,1984,16,0,0,16,Pakistan,Asia
+PAK,1988,0,0,1,1,Pakistan,Asia
+PAK,1992,0,0,16,16,Pakistan,Asia
+PAN,1948,0,0,2,2,Panama,Americas
+PAN,2008,1,0,0,1,Panama,Americas
+PAR,2004,0,17,0,17,Paraguay,Americas
+PER,1948,1,0,0,1,Peru,Americas
+PER,1984,0,1,0,1,Peru,Americas
+PER,1988,0,12,0,12,Peru,Americas
+PER,1992,0,1,0,1,Peru,Americas
+PHI,1928,0,0,1,1,Philippines,Asia
+PHI,1932,0,0,3,3,Philippines,Asia
+PHI,1936,0,0,1,1,Philippines,Asia
+PHI,1964,0,1,0,1,Philippines,Asia
+PHI,1988,0,0,1,1,Philippines,Asia
+PHI,1992,0,0,1,1,Philippines,Asia
+PHI,1996,0,1,0,1,Philippines,Asia
+POL,1924,0,4,1,5,Poland,Europe
+POL,1928,1,3,14,18,Poland,Europe
+POL,1932,2,3,14,19,Poland,Europe
+POL,1936,0,5,4,9,Poland,Europe
+POL,1948,0,0,1,1,Poland,Europe
+POL,1952,1,2,1,4,Poland,Europe
+POL,1956,1,9,9,19,Poland,Europe
+POL,1960,4,11,15,30,Poland,Europe
+POL,1964,10,13,25,48,Poland,Europe
+POL,1968,5,2,30,37,Poland,Europe
+POL,1972,27,8,11,46,Poland,Europe
+POL,1976,18,29,26,73,Poland,Europe
+POL,1980,3,25,22,50,Poland,Europe
+POL,1988,2,9,10,21,Poland,Europe
+POL,1992,5,18,19,42,Poland,Europe
+POL,1996,7,7,7,21,Poland,Europe
+POL,2000,7,10,7,24,Poland,Europe
+POL,2004,4,2,6,12,Poland,Europe
+POL,2008,6,13,1,20,Poland,Europe
+POL,2012,3,1,8,12,Poland,Europe
+POR,1924,0,0,3,3,Portugal,Europe
+POR,1936,0,0,3,3,Portugal,Europe
+POR,1948,0,2,3,5,Portugal,Europe
+POR,1952,0,0,2,2,Portugal,Europe
+POR,1960,0,2,0,2,Portugal,Europe
+POR,1976,0,2,0,2,Portugal,Europe
+POR,1984,1,0,2,3,Portugal,Europe
+POR,1988,1,0,0,1,Portugal,Europe
+POR,1996,1,0,2,3,Portugal,Europe
+POR,2000,0,0,2,2,Portugal,Europe
+POR,2004,0,2,1,3,Portugal,Europe
+POR,2008,1,1,0,2,Portugal,Europe
+POR,2012,0,2,0,2,Portugal,Europe
+PRK,1972,1,1,13,15,North Korea,Asia
+PRK,1976,1,1,0,2,North Korea,Asia
+PRK,1980,0,3,2,5,North Korea,Asia
+PRK,1992,4,0,6,10,North Korea,Asia
+PRK,1996,2,1,2,5,North Korea,Asia
+PRK,2000,0,1,3,4,North Korea,Asia
+PRK,2004,0,4,1,5,North Korea,Asia
+PRK,2008,2,1,3,6,North Korea,Asia
+PRK,2012,4,0,2,6,North Korea,Asia
+PUR,1948,0,0,1,1,Puerto Rico,
+PUR,1976,0,0,1,1,Puerto Rico,
+PUR,1984,0,1,1,2,Puerto Rico,
+PUR,1992,0,0,1,1,Puerto Rico,
+PUR,1996,0,0,1,1,Puerto Rico,
+PUR,2012,0,1,1,2,Puerto Rico,
+QAT,1992,0,0,1,1,Qatar,Asia
+QAT,2000,0,0,1,1,Qatar,Asia
+QAT,2012,0,0,2,2,Qatar,Asia
+ROU,1924,0,0,23,23,Romania,Europe
+ROU,1936,0,2,0,2,Romania,Europe
+ROU,1952,1,1,2,4,Romania,Europe
+ROU,1956,6,3,10,19,Romania,Europe
+ROU,1960,3,1,11,15,Romania,Europe
+ROU,1964,2,4,10,16,Romania,Europe
+ROU,1968,5,9,9,23,Romania,Europe
+ROU,1972,3,10,27,40,Romania,Europe
+ROU,1976,4,28,23,55,Romania,Europe
+ROU,1980,7,15,50,72,Romania,Europe
+ROU,1984,40,31,35,106,Romania,Europe
+ROU,1988,8,30,13,51,Romania,Europe
+ROU,1992,8,31,14,53,Romania,Europe
+ROU,1996,13,10,15,38,Romania,Europe
+ROU,2000,27,6,13,46,Romania,Europe
+ROU,2004,23,5,11,39,Romania,Europe
+ROU,2008,5,1,16,22,Romania,Europe
+ROU,2012,2,8,6,16,Romania,Europe
+RSA,1908,1,1,0,2,South Africa,Africa
+RSA,1912,5,2,0,7,South Africa,Africa
+RSA,1920,3,12,6,21,South Africa,Africa
+RSA,1924,1,1,1,3,South Africa,Africa
+RSA,1928,1,0,5,6,South Africa,Africa
+RSA,1932,2,0,3,5,South Africa,Africa
+RSA,1936,0,1,0,1,South Africa,Africa
+RSA,1948,2,1,1,4,South Africa,Africa
+RSA,1952,2,8,4,14,South Africa,Africa
+RSA,1956,0,0,7,7,South Africa,Africa
+RSA,1960,0,1,2,3,South Africa,Africa
+RSA,1992,0,3,0,3,South Africa,Africa
+RSA,1996,3,1,1,5,South Africa,Africa
+RSA,2000,0,2,3,5,South Africa,Africa
+RSA,2004,4,3,3,10,South Africa,Africa
+RSA,2008,0,1,0,1,South Africa,Africa
+RSA,2012,6,2,1,9,South Africa,Africa
+RUS,1996,36,45,34,115,Russia,Europe
+RUS,2000,66,68,54,188,Russia,Europe
+RUS,2004,47,49,96,192,Russia,Europe
+RUS,2008,43,44,56,143,Russia,Europe
+RUS,2012,47,32,51,130,Russia,Europe
+SEN,1988,0,1,0,1,Senegal,Africa
+SGP,2012,0,0,4,4,Singapore,Asia
+SIN,1960,0,1,0,1,Singapore,Asia
+SIN,2008,0,3,0,3,Singapore,Asia
+SLO,1992,0,0,6,6,Slovenia,Europe
+SLO,1996,0,2,0,2,Slovenia,Europe
+SLO,2000,3,0,0,3,Slovenia,Europe
+SLO,2004,0,2,3,5,Slovenia,Europe
+SLO,2008,1,2,2,5,Slovenia,Europe
+SLO,2012,1,1,3,5,Slovenia,Europe
+SRB,2008,0,1,14,15,Serbia,Europe
+SRB,2012,1,1,14,16,Serbia,Europe
+SRI,1948,0,1,0,1,Sri Lanka,Asia
+SRI,2000,0,1,0,1,Sri Lanka,Asia
+SUD,2008,0,1,0,1,Sudan,Africa
+SUI,1896,1,2,0,3,Switzerland,Europe
+SUI,1900,13,1,1,15,Switzerland,Europe
+SUI,1904,1,0,1,2,Switzerland,Europe
+SUI,1920,6,2,21,29,Switzerland,Europe
+SUI,1924,13,31,21,65,Switzerland,Europe
+SUI,1928,16,8,5,29,Switzerland,Europe
+SUI,1932,0,1,0,1,Switzerland,Europe
+SUI,1936,1,22,24,47,Switzerland,Europe
+SUI,1948,5,22,5,32,Switzerland,Europe
+SUI,1952,2,19,12,33,Switzerland,Europe
+SUI,1956,0,0,3,3,Switzerland,Europe
+SUI,1960,0,5,6,11,Switzerland,Europe
+SUI,1964,1,4,1,6,Switzerland,Europe
+SUI,1968,0,3,10,13,Switzerland,Europe
+SUI,1972,0,8,0,8,Switzerland,Europe
+SUI,1976,1,3,6,10,Switzerland,Europe
+SUI,1980,2,0,0,2,Switzerland,Europe
+SUI,1984,0,9,6,15,Switzerland,Europe
+SUI,1988,0,6,2,8,Switzerland,Europe
+SUI,1992,1,0,0,1,Switzerland,Europe
+SUI,1996,5,6,0,11,Switzerland,Europe
+SUI,2000,1,11,2,14,Switzerland,Europe
+SUI,2004,1,2,4,7,Switzerland,Europe
+SUI,2008,3,0,8,11,Switzerland,Europe
+SUI,2012,2,2,0,4,Switzerland,Europe
+SUR,1988,1,0,0,1,Suriname,Americas
+SUR,1992,0,0,1,1,Suriname,Americas
+SVK,1996,1,1,1,3,Slovakia,Europe
+SVK,2000,2,3,1,6,Slovakia,Europe
+SVK,2004,3,2,5,10,Slovakia,Europe
+SVK,2008,4,5,1,10,Slovakia,Europe
+SVK,2012,0,1,4,5,Slovakia,Europe
+SWE,1900,0,0,1,1,Sweden,Europe
+SWE,1908,69,18,11,98,Sweden,Europe
+SWE,1912,86,62,25,173,Sweden,Europe
+SWE,1920,53,36,57,146,Sweden,Europe
+SWE,1924,6,25,49,80,Sweden,Europe
+SWE,1928,7,8,21,36,Sweden,Europe
+SWE,1932,12,7,12,31,Sweden,Europe
+SWE,1936,7,11,16,34,Sweden,Europe
+SWE,1948,29,15,29,73,Sweden,Europe
+SWE,1952,23,24,23,70,Sweden,Europe
+SWE,1956,14,14,6,34,Sweden,Europe
+SWE,1960,2,2,3,7,Sweden,Europe
+SWE,1964,3,4,8,15,Sweden,Europe
+SWE,1968,4,4,1,9,Sweden,Europe
+SWE,1972,4,9,8,21,Sweden,Europe
+SWE,1976,9,1,0,10,Sweden,Europe
+SWE,1980,3,6,9,18,Sweden,Europe
+SWE,1984,3,18,11,32,Sweden,Europe
+SWE,1988,0,5,11,16,Sweden,Europe
+SWE,1992,1,27,7,35,Sweden,Europe
+SWE,1996,3,23,5,31,Sweden,Europe
+SWE,2000,4,20,8,32,Sweden,Europe
+SWE,2004,5,5,2,12,Sweden,Europe
+SWE,2008,0,5,2,7,Sweden,Europe
+SWE,2012,2,18,3,23,Sweden,Europe
+SYR,1984,0,1,0,1,Syria,Asia
+SYR,1996,1,0,0,1,Syria,Asia
+SYR,2004,0,0,1,1,Syria,Asia
+TAN,1980,0,2,0,2,Tanzania,Africa
+TGA,1996,0,1,0,1,Tonga,Oceania
+THA,1976,0,0,1,1,Thailand,Asia
+THA,1984,0,1,0,1,Thailand,Asia
+THA,1988,0,0,1,1,Thailand,Asia
+THA,1992,0,0,1,1,Thailand,Asia
+THA,1996,1,0,1,2,Thailand,Asia
+THA,2000,1,0,2,3,Thailand,Asia
+THA,2004,3,1,4,8,Thailand,Asia
+THA,2008,2,2,0,4,Thailand,Asia
+THA,2012,0,2,2,4,Thailand,Asia
+TJK,2008,0,1,1,2,Tajikistan,Asia
+TJK,2012,0,0,1,1,Tajikistan,Asia
+TOG,2008,0,0,1,1,Togo,Africa
+TPE,1960,0,1,0,1,Taiwan,
+TPE,1968,0,0,1,1,Taiwan,
+TPE,1984,0,0,1,1,Taiwan,
+TPE,1992,0,20,0,20,Taiwan,
+TPE,1996,0,1,0,1,Taiwan,
+TPE,2000,0,1,4,5,Taiwan,
+TPE,2004,2,4,3,9,Taiwan,
+TPE,2008,0,0,4,4,Taiwan,
+TPE,2012,1,0,1,2,Taiwan,
+TRI,1948,0,1,0,1,Trinidad and Tobago,Americas
+TRI,1952,0,0,2,2,Trinidad and Tobago,Americas
+TRI,1964,0,1,5,6,Trinidad and Tobago,Americas
+TRI,1976,1,0,0,1,Trinidad and Tobago,Americas
+TRI,1996,0,0,2,2,Trinidad and Tobago,Americas
+TRI,2000,0,1,1,2,Trinidad and Tobago,Americas
+TRI,2004,0,0,1,1,Trinidad and Tobago,Americas
+TRI,2008,0,5,0,5,Trinidad and Tobago,Americas
+TTO,2012,1,4,5,10,Trinidad and Tobago,Americas
+TUN,1964,0,1,1,2,Tunisia,Africa
+TUN,1968,1,0,1,2,Tunisia,Africa
+TUN,1972,0,1,0,1,Tunisia,Africa
+TUN,1996,0,0,1,1,Tunisia,Africa
+TUN,2008,1,0,0,1,Tunisia,Africa
+TUN,2012,2,0,1,3,Tunisia,Africa
+TUR,1936,1,0,1,2,Turkey,Europe
+TUR,1948,6,4,2,12,Turkey,Europe
+TUR,1952,2,0,1,3,Turkey,Europe
+TUR,1956,3,2,2,7,Turkey,Europe
+TUR,1960,7,2,0,9,Turkey,Europe
+TUR,1964,2,3,1,6,Turkey,Europe
+TUR,1968,2,0,0,2,Turkey,Europe
+TUR,1972,0,1,0,1,Turkey,Europe
+TUR,1984,0,0,3,3,Turkey,Europe
+TUR,1988,1,1,0,2,Turkey,Europe
+TUR,1992,2,2,2,6,Turkey,Europe
+TUR,1996,4,1,1,6,Turkey,Europe
+TUR,2000,3,0,2,5,Turkey,Europe
+TUR,2004,3,3,4,10,Turkey,Europe
+TUR,2008,1,4,3,8,Turkey,Europe
+TUR,2012,1,2,1,4,Turkey,Europe
+UAE,2004,1,0,0,1,United Arab Emirates,Asia
+UGA,1968,0,1,1,2,Uganda,Africa
+UGA,1972,1,1,0,2,Uganda,Africa
+UGA,1980,0,1,0,1,Uganda,Africa
+UGA,1996,0,0,1,1,Uganda,Africa
+UGA,2012,1,0,0,1,Uganda,Africa
+UKR,1996,10,5,19,34,Ukraine,Europe
+UKR,2000,3,20,12,35,Ukraine,Europe
+UKR,2004,9,8,31,48,Ukraine,Europe
+UKR,2008,10,5,16,31,Ukraine,Europe
+UKR,2012,9,4,12,25,Ukraine,Europe
+URU,1924,22,0,0,22,Uruguay,Americas
+URU,1928,22,0,0,22,Uruguay,Americas
+URU,1932,0,0,1,1,Uruguay,Americas
+URU,1948,0,1,2,3,Uruguay,Americas
+URU,1952,0,0,14,14,Uruguay,Americas
+URU,1956,0,0,12,12,Uruguay,Americas
+URU,1964,0,0,1,1,Uruguay,Americas
+URU,2000,0,1,0,1,Uruguay,Americas
+USA,1896,11,7,2,20,United States,Americas
+USA,1900,27,14,14,55,United States,Americas
+USA,1904,146,137,111,394,United States,Americas
+USA,1908,34,14,15,63,United States,Americas
+USA,1912,45,25,31,101,United States,Americas
+USA,1920,110,45,38,193,United States,Americas
+USA,1924,110,37,51,198,United States,Americas
+USA,1928,43,24,17,84,United States,Americas
+USA,1932,78,44,59,181,United States,Americas
+USA,1936,51,26,15,92,United States,Americas
+USA,1948,83,30,35,148,United States,Americas
+USA,1952,79,23,28,130,United States,Americas
+USA,1956,61,37,20,118,United States,Americas
+USA,1960,68,23,21,112,United States,Americas
+USA,1964,78,36,36,150,United States,Americas
+USA,1968,83,31,35,149,United States,Americas
+USA,1972,53,59,43,155,United States,Americas
+USA,1976,63,56,36,155,United States,Americas
+USA,1984,168,115,50,333,United States,Americas
+USA,1988,77,64,52,193,United States,Americas
+USA,1992,89,50,85,224,United States,Americas
+USA,1996,160,48,52,260,United States,Americas
+USA,2000,130,66,52,248,United States,Americas
+USA,2004,116,75,73,264,United States,Americas
+USA,2008,125,109,81,315,United States,Americas
+USA,2012,147,57,46,250,United States,Americas
+UZB,1996,0,1,1,2,Uzbekistan,Asia
+UZB,2000,1,1,2,4,Uzbekistan,Asia
+UZB,2004,2,1,2,5,Uzbekistan,Asia
+UZB,2008,1,2,3,6,Uzbekistan,Asia
+UZB,2012,1,0,2,3,Uzbekistan,Asia
+VEN,1952,0,0,1,1,Venezuela,Americas
+VEN,1960,0,0,1,1,Venezuela,Americas
+VEN,1968,1,0,0,1,Venezuela,Americas
+VEN,1976,0,1,0,1,Venezuela,Americas
+VEN,1980,0,1,0,1,Venezuela,Americas
+VEN,1984,0,0,3,3,Venezuela,Americas
+VEN,2004,0,0,2,2,Venezuela,Americas
+VEN,2008,0,0,1,1,Venezuela,Americas
+VEN,2012,1,0,0,1,Venezuela,Americas
+VIE,2000,0,1,0,1,Vietnam,Asia
+VIE,2008,0,1,0,1,Vietnam,Asia
+ZAM,1984,0,0,1,1,Zambia,Africa
+ZAM,1996,0,1,0,1,Zambia,Africa
+ZIM,1980,16,0,0,16,Zimbabwe,Africa
+ZIM,2004,1,1,1,3,Zimbabwe,Africa
+ZIM,2008,1,3,0,4,Zimbabwe,Africa
