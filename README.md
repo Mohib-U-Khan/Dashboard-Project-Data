@@ -1,6 +1,6 @@
 # Dashboard-Project-Data
 
-This repo contains the data used for my CS416 Create A Dashboard Project. In this repo, you will find original dataset used and the dataset after processing.
+This repo contains the data used for my CS416 Create A Dashboard Project. In this repo, you will find original datasets used and the datasets after processing.
 
 URLs of the public datasets are also given below:
 
